@@ -1,0 +1,8 @@
+{
+  "name": "rememo",
+  "description": "App para recordar cuales remedios ya fueron tomados",
+  "main": "app.js",
+  "dependencies": {
+    "tabris": "^1.1.0"
+  }
+}

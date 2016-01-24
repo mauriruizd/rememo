@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.wigocreative.rememo" version="1.0.0">
+  <name>Rememo</name>
+  <description>
+   Nunca más te olvidaras si tomaste o no la medicación.
+  </description>
+  <author email="wigo@wigolabs.com" href="https://wigolabs.com">
+   Wigo Creative
+  </author>
+</widget>
